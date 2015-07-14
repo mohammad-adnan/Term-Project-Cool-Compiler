@@ -1,3 +1,5 @@
 # Term-Project-Cool-Compiler
-In this project we will design and implement a compiler for a Cool language which designed specifically to ease
-the designing task of the compiler.
+
+Design and implement a compiler for a Cool language using Flex (lexical analyzer generator) and Bison (general-purpose parser generator).
+
+implemented in C++
